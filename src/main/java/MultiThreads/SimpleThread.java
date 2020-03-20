@@ -11,7 +11,7 @@ public class SimpleThread implements Runnable {
     public void run() {
         try {
             // number is used to count down
-            for(int i = 5; i>0;i++){
+            for(int i = 5; i>0;i--){
                 System.out.println("Child Thread: "+i);
                 Thread.sleep(500);
             }
@@ -26,9 +26,10 @@ public class SimpleThread implements Runnable {
         // start child thread, run() will be called
         st.t.start();
         try {
-            for(int i = 5; i>0;i++){
+            for(int i = 5; i>0;i--){
                 System.out.println("Main Thread: "+i);
-                Thread.sleep(500);
+                // ensure the main thread to finish the last
+                Thread.sleep(1000);
             }
         } catch (InterruptedException e) {
             System.out.println("Main thread interrupted.");
