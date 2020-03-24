@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f2c9a48-7583-4f7b-9a54-45d9125c5301" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/RebuildBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ReplaceSpaceInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreads/SimpleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiThreads/SimpleThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/Duplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +60,48 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.BinarySearch" />
+      <module name="Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.Duplicate" />
+      <module name="Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.QuickSort" />
+      <module name="Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceSpaceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.ReplaceSpaceInString" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -89,6 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ReplaceSpaceInString" />
+        <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SimpleThread" />
       </list>
@@ -106,12 +148,27 @@
       <updated>1584588132142</updated>
       <workItem from="1584588135150" duration="231000" />
       <workItem from="1584588381433" duration="7204000" />
-      <workItem from="1584688595384" duration="208000" />
+      <workItem from="1584688595384" duration="233000" />
+      <workItem from="1584689061127" duration="2724000" />
+      <workItem from="1584874497379" duration="4127000" />
+      <workItem from="1584927001955" duration="4725000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1584688832229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584688832229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="91" key="#Project_Structure" timestamp="1584588142292">
@@ -122,49 +179,53 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1584688785947" />
+    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1584688830339">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584688830339" />
     <state width="411" height="466" key="DebuggerActiveHint" timestamp="1584612662693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="411" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1584612662693" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1584614822364">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1585056167100">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584614822364" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1584614822364">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1585056167100">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584614822364" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1584614822364">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1585056167100">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584614822364" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1584614822364">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1585056167100">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584614822364" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1584614741363">
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1584929433694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584614741363" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1584614741362">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1584929433694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584614741362" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1584614741362">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1584929433694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584614741362" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1584614741363">
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1584929433694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584614741363" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
     <state x="232" y="0" width="965" height="850" key="SettingsEditor" timestamp="1584588430696">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="232" y="0" width="965" height="850" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584588430696" />
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584688771278">
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584927020924">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584688771278" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584927020924" />
   </component>
 </project>
