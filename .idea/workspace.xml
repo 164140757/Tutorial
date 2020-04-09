@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f2c9a48-7583-4f7b-9a54-45d9125c5301" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/RebuildBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ReplaceSpaceInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Arrays/TwoDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/BFS/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Bag0_1/Bag0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Bag0_1/Bag_subSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/InOrderBTNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/IntersectionOfTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/RemoveDuplicatedFromSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/Reverses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/StackMimicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/LongestWordInDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/SumOfSquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/TwoPointerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TwoPointer/reverseVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/RebuildBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/RebuildBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +77,23 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.BinarySearch" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interview.BFS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TwoDimension">
+    <configuration name="LongestWordInDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.TwoPointer.LongestWordInDictionary" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.TwoPointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.Duplicate" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.TwoPointer.MergeSort" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.TwoPointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.QuickSort" />
+    <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.LinkedList.PalindromeLinkedList" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceSpaceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.ReplaceSpaceInString" />
+    <configuration name="TwoDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.Arrays.TwoDimension" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreads.SimpleThread" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.TwoPointer.ValidPalindrome" />
       <module name="Tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreads.*" />
+          <option name="PATTERN" value="interview.TwoPointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +153,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.LongestWordInDictionary" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.PalindromeLinkedList" />
+      <item itemvalue="Application.ValidPalindrome" />
+      <item itemvalue="Application.TwoDimension" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.ReplaceSpaceInString" />
-        <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.SimpleThread" />
+        <item itemvalue="Application.TwoDimension" />
+        <item itemvalue="Application.PalindromeLinkedList" />
+        <item itemvalue="Application.LongestWordInDictionary" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +185,21 @@
       <workItem from="1584688595384" duration="233000" />
       <workItem from="1584689061127" duration="2724000" />
       <workItem from="1584874497379" duration="4127000" />
-      <workItem from="1584927001955" duration="4725000" />
+      <workItem from="1584927001955" duration="11339000" />
+      <workItem from="1585126591147" duration="887000" />
+      <workItem from="1585134073382" duration="6000" />
+      <workItem from="1585138971256" duration="978000" />
+      <workItem from="1585197965271" duration="6375000" />
+      <workItem from="1585310599136" duration="2849000" />
+      <workItem from="1585379510576" duration="393000" />
+      <workItem from="1585379937671" duration="3349000" />
+      <workItem from="1585450366027" duration="21000" />
+      <workItem from="1585552920784" duration="3922000" />
+      <workItem from="1585623835525" duration="4143000" />
+      <workItem from="1585723790359" duration="5608000" />
+      <workItem from="1585807877060" duration="5240000" />
+      <workItem from="1585893938073" duration="2378000" />
+      <workItem from="1586219870961" duration="6876000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1584688832229</created>
@@ -160,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584688832229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new">
+      <created>1585056183961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585056183961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,61 +226,123 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="91" key="#Project_Structure" timestamp="1584588142292">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1585380261243">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1584588142292" />
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585380261243" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586220144623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586220144623" />
     <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584688785947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1584688785947" />
-    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1584688830339">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585381667659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584688830339" />
-    <state width="411" height="466" key="DebuggerActiveHint" timestamp="1584612662693">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1585381667659" />
+    <state x="147" y="136" key="#xdebugger.evaluate" timestamp="1585813699722">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="411" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1584612662693" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1585056167100">
+    <state x="147" y="136" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1585813699722" />
+    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1585056181611">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1585056167100">
+    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585056181611" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1585813685173">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1585056167100">
+    <state width="421" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1585813685173" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1585813859068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1585056167100">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585813859068" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1585813859067">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585056167100" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1584929433694">
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585813859067" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1585813859067">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1584929433694">
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585813859067" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1585813859067">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1584929433694">
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585813859067" />
+    <state width="1493" height="169" key="GridCell.Tab.1.bottom" timestamp="1585813859068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1584929433694">
+    <state width="1493" height="169" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585813859068" />
+    <state width="1493" height="169" key="GridCell.Tab.1.center" timestamp="1585813859068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584929433694" />
-    <state x="232" y="0" width="965" height="850" key="SettingsEditor" timestamp="1584588430696">
+    <state width="1493" height="169" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585813859068" />
+    <state width="1493" height="169" key="GridCell.Tab.1.left" timestamp="1585813859068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="232" y="0" width="965" height="850" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584588430696" />
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584927020924">
+    <state width="1493" height="169" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585813859068" />
+    <state width="1493" height="169" key="GridCell.Tab.1.right" timestamp="1585813859068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584927020924" />
+    <state width="1493" height="169" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585813859068" />
+    <state x="232" y="0" width="965" height="850" key="SettingsEditor" timestamp="1585381551117">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="232" y="0" width="965" height="850" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585381551117" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585896860335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585896860335" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585092902484">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585092902484" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/LengthOfLIS.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/Bag0_1/Bag0_1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/Bag0_1/Bag_subSet.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/TwoPointer/TwoPointerSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/TwoPointer/MergeSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/LinkedList/RemoveNthFromEnd.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/interview/LinkedList/PalindromeLinkedList.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tutorial$PalindromeLinkedList.ic" NAME="PalindromeLinkedList Coverage Results" MODIFIED="1585813616881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>interview.LinkedList.*</FILTER>
+    </SUITE>
   </component>
 </project>
